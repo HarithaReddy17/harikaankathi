@@ -1,2 +1,2 @@
-# ddevendla
+
 # mkonduri
